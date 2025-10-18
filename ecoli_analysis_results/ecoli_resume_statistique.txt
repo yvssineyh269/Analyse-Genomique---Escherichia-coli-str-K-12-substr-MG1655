@@ -1,0 +1,30 @@
+ANALYSE DU GÉNOME Escherichia coli K-12 substr. MG1655
+============================================================
+
+Fichier GenBank: NC_000913.3
+Description: Escherichia coli str. K-12 substr. MG1655, complete genome
+Longueur du génome: 4,641,652 bp
+Contenu GC du génome: 0.51%
+Topologie: circular
+
+STATISTIQUES DES PROTÉINES:
+Nombre total de CDS: 4,315
+Longueur moyenne des protéines: 310.0 aa
+Longueur médiane des protéines: 274.0 aa
+Protéine la plus courte: 8 aa
+Protéine la plus longue: 2358 aa
+Poids moléculaire moyen: 34336 Da
+Point isoélectrique moyen: 6.94
+Contenu GC moyen des CDS: 0.51%
+
+TOP 10 DES PLUS LONGUES PROTÉINES:
+ 1. yeeJ (b1978) - 2358 aa - inverse autotransporter adhesin
+ 2. ydbA (b4492) - 2020 aa - putative outer membrane protein, N-terminal fragment
+ 3. yfhM (b2520) - 1653 aa - alpha2-macroglobulin
+ 4. lhr (b1653) - 1538 aa - ATP-dependent helicase Lhr
+ 5. ypjA (b2647) - 1526 aa - adhesin-like autotransporter YpjA
+ 6. yghJ (b4466) - 1520 aa - putative lipoprotein YghJ
+ 7. mukB (b0924) - 1486 aa - chromosome partitioning protein MukB
+ 8. gltB (b3212) - 1486 aa - glutamate synthase subunit GltB
+ 9. rhsD (b0497) - 1426 aa - protein RhsD
+10. rhsB (b3482) - 1411 aa - rhs element protein RhsB
